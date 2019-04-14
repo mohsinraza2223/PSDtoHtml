@@ -1,0 +1,43 @@
+p {
+  font-family: "Times New Roman", Times, serif;
+  /*font-size: 13px;*/
+  color: #656f7b;
+}
+input::placeholder{
+	color: red;
+}
+
+.carW{
+	width: 100%;
+}
+.next{
+	image: url(Circle1.png);
+}
+.top{
+    top: 50%;
+
+	text-align: center;
+}
+.r3r4{
+	background: #f9f9f9;
+}
+
+.rForm{
+	background: #3b3d40;
+}
+.textc{
+	text-align: center;
+}
+
+.foot{
+	background:#3b3d40; 
+	position: fixed;
+	width: 100%;
+	left: 0;
+	
+	bottom: 0;
+	color: #9d9ea0;
+}
+.foot_parts{
+background:#3b3d40;
+}
